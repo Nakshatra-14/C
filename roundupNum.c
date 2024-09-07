@@ -18,7 +18,7 @@ int main(void)
         printf("%d ", ar[i]);
 
     puts("");    
-    // printf("s = %d\n", s);
+    // printf("s");
 
     return 0;
 }
