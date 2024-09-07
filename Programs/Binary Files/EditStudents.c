@@ -1,0 +1,1 @@
+//WAP read student.dat file and then input a record no. to edit. if found then print the record and ask the user for updated data for the record then end the progrm

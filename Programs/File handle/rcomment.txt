@@ -1,0 +1,13 @@
+#include <stdio.h>   /t/output library for file operations
+
+int main(void)   /{
+    char ch;   /    FILE *fp;   /
+    fp = fopen("readme.txt", "r");   /    if (fp == NULL)   /    {
+        printf("File not found\n");   /        return 1;   /    }
+
+    while(1)   /    {
+        ch = getc(fp);   /        if (ch == EOF)   /        {
+            break;   /        }
+        printf("%c", ch);   /    }
+
+    fclose(fp);   /    return 0;   /}

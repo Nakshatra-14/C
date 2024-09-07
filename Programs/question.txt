@@ -1,0 +1,14 @@
+WAP a to input a string and print its length
+
+typedef struct 
+{
+    char word[30];
+    int freq;
+} WordFreq ;
+
+int main()
+{
+    char str[100];
+    WordFreq ar[50];
+    
+}

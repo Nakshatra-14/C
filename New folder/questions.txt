@@ -1,0 +1,17 @@
+1. write a program to find the sum of first natural number
+
+2. find the sum of the any 10 no. input by the user
+
+3. to find the greatest of 2 no.
+
+4. find speed, distance, and time value according to the user
+
+5. to calculate area of paralleogram or trapazium and rombus input by the user
+
+6. calculate area of eqalatiral triangle   *********
+
+7. print any 10 no. given by the user
+
+8. multipication of tables
+
+9. di
